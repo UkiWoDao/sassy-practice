@@ -1,1 +1,1 @@
-# sassy practice
+# sassy practice for sassy developers
