@@ -1,0 +1,14 @@
+{
+  "name": "jonas",
+  "version": "1.0.0",
+  "description": "sass tutorial",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "UkiWoDao",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.10.0"
+  }
+}
