@@ -1,1 +1,1 @@
-# website-css-sass-practice
+# sassy practice
